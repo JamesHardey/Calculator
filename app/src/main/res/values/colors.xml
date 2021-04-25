@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--Functional Btn-->
+
+    <color name="colorFunctionBG">#333333</color>
+    <color name="colorFunctionTxt">#c4c4c4</color>
+    <color name="colorFunctionTxt2">#FF5722</color>
+    <color name="colorFunctionBG2">#474545</color>
+
+</resources>
